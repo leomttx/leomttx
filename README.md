@@ -1,4 +1,7 @@
-### Olá! Eu sou o Leonardo Teixeira 🫡⌨️
+## Olá! Eu sou o Leonardo Teixeira 🫡⌨️ 
+### Sou estudante de graduação do curso Análise e Desenvolvimento de Sistemas pelo *IFRN CENTRAL DE NATAL - RN*.
+
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomttx/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/SEUUSERNAME/](https://www.instagram.com/leomttx))
 
@@ -15,4 +18,4 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Sou estudante de graduação do curso Análise e Desenvolvimento de Sistemas 
+
