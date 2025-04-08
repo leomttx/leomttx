@@ -4,6 +4,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomttx/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/SEUUSERNAME/](https://www.instagram.com/leomttx))
+	[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leo.job2022@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomttx&show_icons=true&theme=radical)
 
